@@ -13,3 +13,5 @@ Want to learn more? Don't hesitate to contact us!
 
 ***Btw, we also love surfing!***
 🏄‍♂️🤙
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-2867B2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/company/cloudthread)
