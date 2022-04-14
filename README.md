@@ -1,4 +1,4 @@
-<img align="right" src="https://github.com/cloudthread-io/cloudthread-io/raw/main/assets/cloudthread_logo_color.svg" width="200" height="300" alt="Cloudthread Logo" />
+<img align="right" src="https://github.com/cloudthread-io/cloudthread-io/raw/main/assets/logo_square_new_10.svg" width="300" height="300" alt="Cloudthread Logo" />
 
 ### We are [Cloudthread](https://cloudthread.io)
 
